@@ -1,0 +1,14 @@
+{
+  "name": {
+    "message": "wowdb.wiki: поиск по WoW Forever"
+  },
+  "description": {
+    "message": "Поиск по базе WoW Forever на wowdb.wiki: введите wow и название в адресной строке или выделите текст и нажмите правой кнопкой."
+  },
+  "omnibox": {
+    "message": "Поиск по WoW Forever на wowdb.wiki: %s"
+  },
+  "lookup": {
+    "message": "Найти «%s» на wowdb.wiki"
+  }
+}

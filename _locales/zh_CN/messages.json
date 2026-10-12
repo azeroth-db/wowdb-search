@@ -1,0 +1,14 @@
+{
+  "name": {
+    "message": "wowdb.wiki：WoW Forever 搜索"
+  },
+  "description": {
+    "message": "搜索 wowdb.wiki 的 WoW Forever 数据库：在地址栏输入 wow 和名称，或右键单击所选文字。"
+  },
+  "omnibox": {
+    "message": "在 wowdb.wiki 搜索 WoW Forever：%s"
+  },
+  "lookup": {
+    "message": "在 wowdb.wiki 查找“%s”"
+  }
+}
