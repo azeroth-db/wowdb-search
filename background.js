@@ -1,7 +1,7 @@
-// Address-bar keyword "wow" and a right-click lookup, both opening wowdb.wiki's WoW Forever search.
-const SITE = 'https://wowdb.wiki';
+// Address-bar keyword "wow" and a right-click lookup, both opening azeroth.wiki's WoW Forever search.
+const SITE = 'https://azeroth.wiki';
 const DAY = 24 * 60 * 60 * 1000;
-const searchUrl = (text) => `${SITE}/forever/search#q=${encodeURIComponent(text.trim())}`;
+const searchUrl = (text) => `${SITE}/forever/search?q=${encodeURIComponent(text.trim())}`;
 const open = (text) => chrome.tabs.create({ url: searchUrl(text) });
 
 // The site's search index, reduced to unique names and kept for a day.

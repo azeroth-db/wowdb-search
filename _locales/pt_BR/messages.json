@@ -1,14 +1,14 @@
 {
   "name": {
-    "message": "wowdb.wiki: busca de WoW Forever"
+    "message": "azeroth.wiki: busca de WoW Forever"
   },
   "description": {
-    "message": "Busque no banco de dados de WoW Forever do wowdb.wiki: digite wow e um nome na barra de endereços ou clique com o botão direito."
+    "message": "Busque no banco de dados de WoW Forever do azeroth.wiki: digite wow e um nome na barra de endereços ou clique com o botão direito."
   },
   "omnibox": {
-    "message": "Buscar em WoW Forever no wowdb.wiki: %s"
+    "message": "Buscar em WoW Forever no azeroth.wiki: %s"
   },
   "lookup": {
-    "message": "Buscar \"%s\" no wowdb.wiki"
+    "message": "Buscar \"%s\" no azeroth.wiki"
   }
 }
