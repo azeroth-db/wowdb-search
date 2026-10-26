@@ -1,10 +1,10 @@
-# azeroth.wiki browser extension
+# Azeroth DB browser extension
 
-Search the WoW Forever database on [azeroth.wiki](https://azeroth.wiki) from Chrome:
+Search the WoW Forever database on [wowdb.wiki](https://wowdb.wiki) from Chrome:
 
 - Type `wow`, a space and the name of an item, talent, spell, recipe, quest, dungeon or zone
-  in the address bar. Suggestions come from azeroth.wiki's own search index.
-- Select a name on any page, right-click and choose **Look up on azeroth.wiki**.
+  in the address bar. Suggestions come from wowdb.wiki's own search index.
+- Select a name on any page, right-click and choose **Look up on wowdb.wiki**.
 
 About the extension: [azeroth-db.github.io/extension.html](https://azeroth-db.github.io/extension.html)
 
@@ -17,12 +17,12 @@ Download the zip from the [latest release](https://github.com/azeroth-db/wowdb-s
 
 | Permission | Why |
 |---|---|
-| `contextMenus` | the Look up on azeroth.wiki item for selected text |
-| `storage` | the names of azeroth.wiki's public search index, kept for a day for suggestions |
-| `https://azeroth.wiki/*` | reading the search index from `https://azeroth.wiki/api/forever/search` |
+| `contextMenus` | the Look up on wowdb.wiki item for selected text |
+| `storage` | the names of wowdb.wiki's public search index, kept for a day for suggestions |
+| `https://wowdb.wiki/*` | reading the search index from `https://wowdb.wiki/api/forever/search` |
 
-It collects no data and sends nothing about you. Texts follow the browser's language in the
-ten languages azeroth.wiki ships.
+Your query is sent to wowdb.wiki when you submit an address-bar search or choose the
+right-click lookup. Texts follow the browser's language in the ten bundled locales.
 
 ## Package
 

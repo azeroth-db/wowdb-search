@@ -1,14 +1,14 @@
 {
   "name": {
-    "message": "azeroth.wiki: WoW Forever 검색"
+    "message": "wowdb.wiki: WoW Forever 검색"
   },
   "description": {
-    "message": "azeroth.wiki의 WoW Forever 데이터베이스 검색: 주소 표시줄에 wow와 이름을 입력하거나 선택한 텍스트를 오른쪽 클릭하세요."
+    "message": "wowdb.wiki의 WoW Forever 데이터베이스 검색: 주소 표시줄에 wow와 이름을 입력하거나 선택한 텍스트를 오른쪽 클릭하세요."
   },
   "omnibox": {
-    "message": "azeroth.wiki에서 WoW Forever 검색: %s"
+    "message": "wowdb.wiki에서 WoW Forever 검색: %s"
   },
   "lookup": {
-    "message": "azeroth.wiki에서 \"%s\" 찾기"
+    "message": "wowdb.wiki에서 \"%s\" 찾기"
   }
 }
